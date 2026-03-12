@@ -29,10 +29,15 @@ JavaScript
 
 portfolio
 │
+
 ├── assets (images, icons, etc.)
+
 ├── css
+
 ├── js
+
 ├── index.html
+
 └── README.md
 
 📬 Connect With Me
