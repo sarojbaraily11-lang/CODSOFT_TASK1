@@ -28,7 +28,6 @@ JavaScript
 📂 Project Structure
 
 portfolio
-│
 
 ├── assets (images, icons, etc.)
 
