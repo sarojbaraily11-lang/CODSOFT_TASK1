@@ -36,4 +36,4 @@ The portfolio uses **MyPhoto.jpg** as the profile picture displayed on the websi
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/sarojbaraily11-lang/CODSOFT_TASK1.git
