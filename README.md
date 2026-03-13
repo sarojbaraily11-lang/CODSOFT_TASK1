@@ -1,52 +1,39 @@
-Hi, I'm Biswa Prakash Baraily 👋
-A passionate [Frontend / Backend / Full Stack] Developer who enjoys building modern web applications and learning new technologies.
+# 🌐 Personal Portfolio Website
 
-This portfolio highlights my work, projects, and technical skills.
+This repository contains the source code and assets for my personal portfolio website. The portfolio showcases my profile, resume, and personal information.
 
-🛠️ Tech Stack
+## 📁 Repository Contents
 
-HTML5
+- **index.html** – Main structure of the portfolio website  
+- **style.css** – Styling and layout of the website  
+- **MyPhoto.jpg** – Profile photo used in the portfolio  
+- **BISWA PRAKASH BARAILY resume.pdf** – My professional resume  
+- **README.md** – Documentation for this repository  
 
-CSS3
+## 🚀 Features
 
-JavaScript
+- Simple and responsive portfolio layout  
+- Personal profile section with photo  
+- Resume available for download/view  
+- Clean HTML and CSS structure  
 
-✨ Features
+## 🛠️ Technologies Used
 
-📱 Fully responsive design
+- **HTML5**
+- **CSS3**
 
-🎨 Clean and modern UI
+## 📄 Resume
 
-🧑‍💻 Projects showcase section
+You can view or download my resume here:  
+**BISWA PRAKASH BARAILY resume.pdf**
 
-📄 About me section
+## 📷 Profile Image
 
-📬 Contact section
+The portfolio uses **MyPhoto.jpg** as the profile picture displayed on the website.
 
-⚡ Fast and optimized performance
+## 💻 How to Run the Project
 
-📂 Project Structure
+1. Clone the repository
 
-portfolio
-
-├── assets (images, icons, etc.)
-
-├── css
-
-├── js
-
-├── index.html
-
-└── README.md
-
-📬 Connect With Me
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-Email: your@email.com
-
-⭐ Support
-
-If you like this project, consider giving it a star ⭐ on GitHub.
+```bash
+git clone https://github.com/your-username/your-repository-name.git
